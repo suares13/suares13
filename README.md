@@ -17,7 +17,8 @@
 ### Minhas redes sociais!
  
 <div> 
-  <a href="https://www.instagram.com/__suares" 
+  <a href="https://www.instagram.com/__suares"  target="_blank"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2F__suares%2F" target="_blank"></a>
+
   <a href="https://discord.gg/Bc3zu8Px"
   <a href ="vtsuares@gmail.com ou vihsantossuares@gmail.com"
   <a href="https://www.linkedin.com/in/vict%C3%B3ria-santos-suares-da-silva-0981092b3/"
