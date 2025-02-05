@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Programadora iniciante;<br>- Graduanda em Eng. Software (Unicesumar);<br>- Técnica em Agropecuária;</p>
+<p align="left">- Programadora iniciante;<br>- Graduanda em Eng. Software (Unicesumar);<br>- Técnica em Agropecuária (UFPI);</p>
 
 ###
 
