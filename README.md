@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="banner.jpg" alt="Banner Elden Ring" width="100%">
+    <img src="banner.jpg" alt="Banner Elden Ring" width="90%">
   </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-suares/)
