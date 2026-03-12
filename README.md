@@ -1,42 +1,62 @@
-🎯 Sobre Mim: Desenvolvedora Back-End e Hacker Ética
-Sou uma profissional em formação, com base sólida em Engenharia de Software e paixão por construir sistemas. Meu objetivo é aliar a disciplina de desenvolvimento com a mentalidade ofensiva para criar soluções seguras e robustas.
+<div align="center">
+  <p align="center">
+    <img src="banner.jpg" alt="Banner Elden Ring" width="100%">
+  </p>
 
-💻 Stack & Foco Principal
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-suares/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__suares/)
 
-Desenvolvimento Back-End: Foco intenso em Java (POO) e Spring Boot para construção de APIs e sistemas escaláveis. Atualmente em preparação para a certificação OCA.
+</div>
 
-Diferencial de Segurança (Red Team): Paixão por Cibersegurança Ofensiva. Busco entender técnicas de Pentest e Análise de Vulnerabilidades para garantir a resiliência dos sistemas desde a fase de projeto.
+----
 
-📚 Formação & Habilidades
+<p align="left">
+  <img src="perfil.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <code>> print("Hello World! I am Victoria Suares.")</code>
+  <p>
+  Sou estudante de Engenharia de Software e estou iniciando minha jornada em <b>Cybersecurity</b>, com foco especial em <b>Red Team</b>.
+  <br><br>
+  Atualmente, dedico meus estudos ao desenvolvimento com <b>Python e Java</b>, além de atuar como pesquisadora em IA Ética e Transparente (PIBIC).
+  </p>
+  </div>
+<br clear="right">
 
-Engenharia de Software (Em andamento) | Téc. em Agropecuária (CTT UFPI – Ênfase em disciplina e organização de sistemas).
-
-Idiomas:
-
-🇪🇸 Espanhol: Proficiente (Nível B1, validado por intercâmbio na Universidade de Salamanca/Espanha).
-
-🇬🇧 Inglês: Aprimorando com foco no exame TOEIC, crucial para equipes internacionais.
-
-🔎 Buscando Oportunidades
-
-Ativamente em busca de posições de Estágio/Júnior em Desenvolvimento Seguro (Back-End) ou Cibersegurança que valorizem o foco em código robusto e a perspectiva de Red Team.
-
-Vamos conversar! Conecte-se: [ https://br.linkedin.com/in/victoria-suares] | [vtsuares@gmail.com]
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suares13&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suares13&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suares13&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suares13&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<div align="center">
+<h3>Technologies</h3>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suares13&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+</br>
+
+<div align="center">
+<h3>Statistics</h3>
+</div>
+
+---
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suares13&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suares13&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+
+</p>
+
+---
+
+</br>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suares13&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
