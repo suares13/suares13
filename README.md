@@ -40,11 +40,10 @@
 
 </br>
 
+---
 <div align="center">
   <h3>Statistics</h3>
 </div>
-
----
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suares13&theme=gruvbox&hide_border=true" />
