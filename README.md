@@ -22,11 +22,11 @@
   </div>
 <br clear="right">
 
+---
 <div align="center">
 <h3>Technologies</h3>
 </div>
 
----
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
