@@ -41,10 +41,12 @@
 </br>
 
 <div align="center">
+  <!-- Card de Streak (Funcionando) -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suares13&theme=gruvbox&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suares13&layout=compact&langs_count=7&theme=gruvbox" />
+  
+  <!-- Alternativa para Most Used Languages (Mais Estável) -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suares13&layout=compact&langs_count=7&theme=gruvbox" />
 </div>
-
 </br>
 
 <p align="center">
