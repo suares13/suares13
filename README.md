@@ -43,15 +43,17 @@
 ---
 <div align="center">
   <h3>Statistics</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=suares13&hide_border=true&background=000000&side=bf2020&ring=bf2020&fire=bf2020&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" />
+      </td>
+      <td align="center">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suares13&layout=compact&langs_count=7&hide_border=true&bg_color=000000&text_color=ffffff&title_color=bf2020" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suares13&hide_border=true&background=000000&side=bf2020&ring=bf2020&fire=bf2020&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suares13&layout=compact&langs_count=7&hide_border=true&bg_color=000000&text_color=ffffff&title_color=bf2020" />
-</p>
 ---
 </br>
 
