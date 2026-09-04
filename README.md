@@ -15,9 +15,9 @@
   <div>
   <code>> print("Hello World! I am Victoria Suares.")</code>
   <p>
-  Sou estudante de Engenharia de Software e estou iniciando minha jornada em <b>Cybersecurity</b>, com foco especial em <b>Red Team</b>.
+  Estudante de Engenharia de Software com foco em <b>Cybersecurity, GRC e Threat Intelligence</b>. Membro do Comitê Público do <b>IDCiber</b>, <b>AI Intern</b> na FlyRank AI e <b>Google Student Ambassador</b>.
   <br><br>
-  Atualmente, dedico meus estudos ao desenvolvimento com <b>Python e Java</b>, além de atuar como pesquisadora em IA Ética e Transparente (PIBIC).
+  Atuo na interseção entre governança de riscos, segurança de dados e desenvolvimento com <b>Python e Java</b>, além de conduzir pesquisas em conformidade e transparência algorítmica (PIBIC).
   </p>
   </div>
 <br clear="right">
